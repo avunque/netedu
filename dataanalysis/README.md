@@ -38,7 +38,7 @@ Estos cuadernos acompañan las secciones prácticas del curso *Análisis de Dato
 ## 📚 Créditos
 
 Material desarrollado por **Antonio Vantaggiato** y **Doribel Rodríguez**  
-Sitio web del curso: [netedu.info](https://netedu.info)
+Sitio web del curso: [Análisis de Datos e IA] (https://netedu.info/dataanalysis/)
 
 ---
 
